@@ -1,4 +1,4 @@
-# go-reloaded
+<img src='go-reloaded/images/logo.png'/> 
 
 go-reloaded editing tool that allows users to make text modifications to a file
 
