@@ -4,7 +4,8 @@
 go-reloaded editing tool that allows users to make text modifications to a file
 
 
-<img width="842" alt="Screenshot 2023-02-19 at 19 43 36" src="https://user-images.githubusercontent.com/111147520/219971331-0d6a0890-ec04-4589-83ad-4e25fbd9a13f.png">
+<img width="1023" alt="Screenshot 2023-02-19 at 19 46 21" src="https://user-images.githubusercontent.com/111147520/219971475-22e75aaa-37e3-4c15-86b9-a1b70f498890.png">
+
 
 
 ## User Stories
