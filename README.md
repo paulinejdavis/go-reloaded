@@ -28,3 +28,26 @@ I would like to make auto hex number conversions.
 ```
 
 <img width="1023" alt="Screenshot 2023-02-19 at 19 47 49" src="https://user-images.githubusercontent.com/111147520/219971536-0ffe6e8e-1716-4b85-8038-d7d4e28c340e.png">
+
+## How to run this project
+
+Clone this repository:
+
+```
+git clone https://github.com/paulinejdavis/go-reloaded.git
+
+```
+
+Run the project:
+
+```
+cd go-reloaded
+go build
+go mod
+
+cat sample.txt
+go run . sample.txt result.txt
+
+cat result.txt
+```
+```
