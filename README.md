@@ -7,6 +7,12 @@ go-reloaded editing tool that allows users to make text modifications to a file
 <img width="1023" alt="Screenshot 2023-02-19 at 19 46 21" src="https://user-images.githubusercontent.com/111147520/219971475-22e75aaa-37e3-4c15-86b9-a1b70f498890.png">
 
 
+## Tech stack
+
+* [Golang](https://go.dev go version go1.19.6 darwin/arm64
+
+
+
 
 ## User Stories
 ```
@@ -44,7 +50,12 @@ Run the project:
 cd go-reloaded
 go build
 go mod
+## Tech stack
 
+* [React](https://reactjs.org/) for front end user interface.
+* [Node.js](https://nodejs.org/en/) for the server environment(v18.12)
+* NPM (8.19.2)
+* Nodemon (2.0.20) to reload the server automatically.
 cat sample.txt
 go run . sample.txt result.txt
 
